@@ -2,16 +2,16 @@
 <h2>Sample executions of the program</h2>
 
 **gst shape.st sphere.st cylinder.st cone.st cuboid.st -f main.st**
-Usage: shape.st sphere.st cylinder.st cone.st cuboid.st -f main.st shape_file  
+<br>Usage: shape.st sphere.st cylinder.st cone.st cuboid.st -f main.st shape_file</br>
 
 **gst shape.st sphere.st cylinder.st cone.st cuboid.st -f main.st xxxx.dat**
-Unable to open xxxx.dat for reading
+<br>Unable to open xxxx.dat for reading</br>
 
 **gst shape.st sphere.st cylinder.st cone.st cuboid.st -f main.st shapes.dat**
-Enter a command: print
-Cuboid: Cube#1, Length=1.00, Width=1.00, Height=1.00
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surface Area: 6.00, Volume: 1.00
-Cuboid: Cube#2, Length=2.00, Width=2.00, Height=2.00
+<br>Enter a command: print</br>
+<br>Cuboid: Cube#1, Length=1.00, Width=1.00, Height=1.00</br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surface Area: 6.00, Volume: 1.00</br>
+<br>Cuboid: Cube#2, Length=2.00, Width=2.00, Height=2.00
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surface Area: 24.00, Volume: 8.00
 Cone: Cone#1, Radius=1.00, Height=1.00
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surface Area: 7.58, Volume: 1.05
