@@ -1,8 +1,8 @@
 
 <h2>Sample executions of the program</h2>
 
-**gst shape.st sphere.st cylinder.st cone.st cuboid.st -f main.st***
-Usage: shape.st sphere.st cylinder.st cone.st cuboid.st -f main.st shape_file
+**gst shape.st sphere.st cylinder.st cone.st cuboid.st -f main.st**
+Usage: shape.st sphere.st cylinder.st cone.st cuboid.st -f main.st shape_file  
 
 **gst shape.st sphere.st cylinder.st cone.st cuboid.st -f main.st xxxx.dat**
 Unable to open xxxx.dat for reading
