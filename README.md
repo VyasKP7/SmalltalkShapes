@@ -39,11 +39,11 @@ Cuboid: Box#2, Length=10.50, Width=21.00, Height=10.50
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surface Area: 1102.50, Volume: 2315.25</br>
 
 Enter a command: count1
-Enter test condition #1: type > cyl
+<br>Enter test condition #1: type > cyl</br>
 There are 4 shapes.
 
 Enter a command: count1
-Enter test condition #1: type != cuboid
+<br>Enter test condition #1: type != cuboid</br>
 There are 6 shapes.
 
 Enter a command: quit
