@@ -9,7 +9,7 @@
 
 **gst shape.st sphere.st cylinder.st cone.st cuboid.st -f main.st shapes.dat**
 <br>Enter a command: print</br>
-<br>Cuboid: Cube#1, Length=1.00, Width=1.00, Height=1.00</br>
+Cuboid: Cube#1, Length=1.00, Width=1.00, Height=1.00
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surface Area: 6.00, Volume: 1.00</br>
 <br>Cuboid: Cube#2, Length=2.00, Width=2.00, Height=2.00
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surface Area: 24.00, Volume: 8.00
